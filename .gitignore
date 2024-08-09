@@ -2,7 +2,7 @@ data
 .vscode
 lightning_logs
 tb_logs
-
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
